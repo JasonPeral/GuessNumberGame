@@ -22,7 +22,7 @@
 // document.querySelector('.guess').value = 45;
 // //Checking what the value holds without manipulation
 // console.log(document.querySelector('.guess').value);
-
+//Testing
 //Lesson 73 handling click events
 
 //Here we are creating a function that will be part of the event handler for the check button
